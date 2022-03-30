@@ -1,0 +1,74 @@
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em){
+    .close_vs2{
+        padding:3%;
+    }
+    #show_all_list{
+        width:40%;
+        margin-top: 2%;
+        z-index: 99;
+        padding:1%;
+        margin-bottom: 7%;
+        display:inline-block;
+        background-color: #5b769e;
+
+    }
+    #show_all_list:hover{
+        
+        color:rgb(255, 28, 28);
+        background-color: #375e97;
+        display:inline-block;
+        
+    }
+    #close_btn{
+        font-size: 22px;
+        margin-left: 32px;
+        margin-top: 15px;
+
+        
+    }
+    #close_btn:hover{
+        background-color: rgb(255, 44, 44);
+        color: antiquewhite;
+
+    }
+    #input_main{
+        text-align: center;
+        height:51px;
+        font-size: 19px;
+        
+    }
+    
+    #search_btn{
+        font-style: 18px    ;
+        height:51px;
+        font-size: 19px;
+    }
+    #btn_split{
+        
+        margin-left: 32px;
+        /* margin-top: 15px;  */
+        /* width:40px; */
+        height:40px;
+        
+        
+    }
+    #main{
+        position: relative;
+    }
+    #home{
+        z-index: 99999999;
+        position: fixed;
+        right:5px;
+        bottom :80%;
+        text-decoration: none;
+        width:40px;
+        height:40px;
+        background-color:rgb(228, 17, 147);
+        text-align: center;
+    }
+    #split_group{
+        display:inline-block;
+        
+    }
+    
+}
